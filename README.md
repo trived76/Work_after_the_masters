@@ -23,5 +23,5 @@ Arduino code to read the input from the Push Button and give the output to the P
 4) [Arduino1_Circuit.pdf](https://github.com/trived76/Work_after_the_masters/blob/master/Arduino_with_Python_Pyserial/Arduino_Circuit.pdf):
 In this PDF, a complete circuit connection (which is very simple!) is illustrated. This is the circuit which we studied in the high-school program.
 
-5) [Arduino_BOM.html] (https://github.com/trived76/Work_after_the_masters/blob/master/Arduino_with_Python_Pyserial/Arduino_BOM.html): 
+5) [Arduino_BOM.html](https://github.com/trived76/Work_after_the_masters/blob/master/Arduino_with_Python_Pyserial/Arduino_BOM.html): 
 It contains Bill Of Material (BOM). It is to list down all the electronic componenets that are used to build our RoboBin.
