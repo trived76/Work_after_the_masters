@@ -1,7 +1,7 @@
 # Work_after_the_masters
 This repository contains my work in AI and programming after I finished all the courses of masters. Thank you for stopping by, I appreciate your time.
 
-## [My_coding](): 
+## [My_coding](https://github.com/trived76/Work_after_the_masters/tree/master/My_coding): 
 
 I am an AI enthusiast and an aspiring Machine Learning Engineer. However, until I get a job in this field, I decided to code some thing (in Python) every week! It is for my practice and understanding. Thus, everyweek I will update this folder with a new code. Currently, it is under progress. If you are an interviewer/recruiter, you can visit my learning and coding experiences from this folder.
 
